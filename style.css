@@ -87,3 +87,11 @@
   .navbar-nav li.active a {
     background-color: #007bff;
   }
+  
+  #gif {
+
+    filter: blur(0.4px);
+    
+      
+  }
+  
